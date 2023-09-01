@@ -1,0 +1,1 @@
+# C_training_logical_programe
