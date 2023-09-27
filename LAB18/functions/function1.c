@@ -3,6 +3,7 @@
 void add1();
 void add2(int,int);
 int add3();
+
 int add4(int,int);
 
 int main()
